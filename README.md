@@ -1,1 +1,2 @@
-# CodeCyss-7DaysOfCode---JavaScript-LogicadePrograma-ao
+# CodeCyss-7DaysOfCode---JavaScript-Logica
+
